@@ -1,0 +1,3 @@
+ray==2.4.0
+pydantic[dotenv]
+loguru>=0.6.0
